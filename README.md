@@ -1,6 +1,6 @@
 # Project B127
 
-<img src="assets/images/b127.jpg" alt="Alternative text" width="800" />
+<img src="assets/images/b127.jpg" alt="BumbleBee" width="800" />
 
 B127 is a specialized forensic digital signal processing application designed to expose and visualise exactly what lossy
 audio encoders like MP3, AAC, or Ogg Vorbis throw away during compression.
