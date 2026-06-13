@@ -3,10 +3,6 @@ from scipy.signal import correlate
 
 
 def synchronize_time_arrays(reference_signal, compressed_signal):
-    """
-    Measures cross-correlation to calculate sample-level timeline misalignment
-    caused by stream head priming. Realignment isolates deterministic artifacts.
-    """
     max_search_size = min(len(reference_signal), len(compressed_signal), 44100 * 5)
     ref_chunk = reference_signal[:max_search_size]
     comp_chunk = compressed_signal[:max_search_size]

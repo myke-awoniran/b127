@@ -5,11 +5,6 @@ import numpy as np
 
 
 def generate_and_load_lossy_variants(reference_path):
-    """
-    Takes a single raw lossless file, encodes it natively into lossy formats
-    using FFmpeg, and decodes back to standard PCM WAV formats.
-    Includes Peak Normalization to fix float vs integer scaling mismatches.
-    """
     test_bench_dir = os.path.dirname(reference_path)
 
     codec_targets = {
