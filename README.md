@@ -156,3 +156,30 @@ CD engineers settled on 44.1 kHz instead of a clean 40 kHz due to two primary en
 
 Thus, 44.1 kHz became the perfect mathematical bridge that satisfied both the biological requirements of human hearing
 and the limitations of early digital hardware components.
+
+### Testing
+
+To test this software project, run python3 main.py
+
+```bash
+python3 main.py
+
+```
+
+### sample Results
+
+My person test on my computer
+
+<img src="assets/images/sample_result.png" alt="Sample result" width="800" />
+
+Also, the current flac audio file in the test bench folder.
+If you're cloning to run on your computer. These are things to Note
+
+1. The test bench image will always be overwritten when a new flac file is tested
+2. The code_comparison_residual image will definitely change.
+
+<img src="test_bench/codec_comparison_residual.png" alt="BumbleBee" width="800" />
+
+Thank You
+Michael Awoniran
+
