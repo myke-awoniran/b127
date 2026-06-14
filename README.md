@@ -174,7 +174,7 @@ python3 main.py
 
 ### sample Results
 
-My person test on my computer
+personal test on my computer
 
 <img src="assets/images/sample_result.png" alt="Sample result" width="800" />
 
@@ -186,7 +186,7 @@ If you're cloning to run on your computer. These are things to Note
 
 <img src="test_bench/codec_comparison_residual.png" alt="BumbleBee" width="800" />
 
-#### Thank Yall
+#### Thank You for reading
 
 Michael Awoniran
 
