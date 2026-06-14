@@ -166,6 +166,12 @@ python3 main.py
 
 ```
 
+[//]: # (### How to read a spectogram)
+
+[//]: # ()
+
+[//]: # (1. {WIP})
+
 ### sample Results
 
 My person test on my computer
@@ -180,6 +186,7 @@ If you're cloning to run on your computer. These are things to Note
 
 <img src="test_bench/codec_comparison_residual.png" alt="BumbleBee" width="800" />
 
-Thank You
+#### Thank Yall
+
 Michael Awoniran
 
